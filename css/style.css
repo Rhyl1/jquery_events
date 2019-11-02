@@ -5,7 +5,18 @@ body{
  	color: #ffffff;*/
  	background-color: #eee;
 }
+/*************************
+Added classes
+**************************/
+.highlight_text {
 
+}
+
+.h2_color {
+
+}
+/*************************
+**************************/
 h1{
 	font-size: 3em;
 	text-align: center;
