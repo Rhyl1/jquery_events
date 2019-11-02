@@ -1,7 +1,6 @@
 # Code Institute
 
-Welcome USER_NAME,
+Welcome Reader,
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+This repository is made to practice with the course material for
+>> jQuery Library - Writing Less JavaScript  jQuery Events  Events in jQuery
